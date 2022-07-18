@@ -1,0 +1,7 @@
+SECRET_KEY='Crie um arquivo Django em outra pasta e copie a secret key'
+DATABASETYPE='mysql'
+NAME='nome do banco'
+USER='usuario do banco'
+PASSWORD='senha do banco'
+HOST='host do banco'
+PORT='porta de acesso do banco'
